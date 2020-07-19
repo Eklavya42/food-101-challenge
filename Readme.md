@@ -55,7 +55,7 @@ Note: The training for the model was performed in Kaggle Notebooks in parts (due
 -   [Kaggle Food-101-Challenge Part-2](https://jovian.ml/outlink?url=https%3A%2F%2Fwww.kaggle.com%2Feklavya18%2Ffood-101-challenge-part2)
 -   [Kaggle Food-101-Challenge Part-3](https://jovian.ml/outlink?url=https%3A%2F%2Fwww.kaggle.com%2Feklavyachopra%2Ffood-101-challenge-part3)
 
-This notebook is the merged part of the above notebooks so that the work is organised.
+The notebook in this repository is the merged part of the above notebooks so that the work is organised.
 
 ---
 
