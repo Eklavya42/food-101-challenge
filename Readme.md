@@ -43,8 +43,9 @@ food_learn = cnn_learner(
 
 You can see the notebook which has explanations here:
 
-[Food-101-Challenge Notebook (nbviewer)](https://nbviewer.jupyter.org/github/Eklavya42/food-101-challenge/blob/master/food-101-challenge.ipynb)
-[Food-101-Challenge Notebook (Jovian.ml)](https://jovian.ml/eklavya42/food-101-merged)
+- [Food-101-Challenge Notebook (nbviewer)](https://nbviewer.jupyter.org/github/Eklavya42/food-101-challenge/blob/master/food-101-challenge.ipynb)
+
+- [Food-101-Challenge Notebook (Jovian.ml)](https://jovian.ml/eklavya42/food-101-merged)
 
 ---
 
