@@ -88,6 +88,10 @@ Accuracy Plot for  Stage 1
 ![Accuracy Plot Stage 1](images/stage1_accuracy_plot.png)
 
 
+**Stage 1 model save file :** [`256_stage1.pth`](https://drive.google.com/file/d/1JmZCn5EMzewWC9gA7lwcNNPu9XDU7mV1/view?usp=sharing)  
+
+---
+
 ### Stage - 2 :  Continue the same Model with unfreezed Layers
 
 ```python
@@ -117,7 +121,11 @@ Accuracy Plot for  Stage 2
 ![Accuracy Plot Stage 1](images/stage2_accuracy_plot.png)
 
 
-### Stage - 2 :  Continue Model with unfreezed layers for more epochs
+**Stage 2 model save file :** [`256_stage2.pth`](https://drive.google.com/file/d/1X_7HXexD6CuedHnJJnGrtLwO-EBkSmVP/view?usp=sharing)
+
+---
+
+### Stage - 3 :  Continue Model with unfreezed layers for more epochs
 
 ```python
 food_learn = cnn_learner(data, models.resnet50,  metrics=accuracy, wd=1e-1,model_dir='/kaggle/working')
@@ -144,6 +152,10 @@ Accuracy Plot for  Stage 3
 
 ![Accuracy Plot Stage 1](images/stage3_accuracy_plot.png)
 
+
+**Stage 3 model save file :** `[256_stage3.pth]`(https://drive.google.com/file/d/1ZNKYSTTUUU7s2YwduNhwnKIpy3HSb88A/view?usp=sharing) 
+
+---
 
 ### Final Loss and  Accuracy
 
